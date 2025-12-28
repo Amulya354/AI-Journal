@@ -1,0 +1,9 @@
+streamlit
+datasets
+scikit-learn
+pandas
+numpy
+matplotlib
+vaderSentiment
+deep-translator
+
